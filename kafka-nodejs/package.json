@@ -1,0 +1,10 @@
+{
+  "name": "kafka-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Umang Utkarsh",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
